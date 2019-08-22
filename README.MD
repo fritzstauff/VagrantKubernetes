@@ -1,6 +1,6 @@
 # Test environment for Kuberenetes 
 
-For now its just a single master node and two workers with Docker and Calico network plugin. Intended for local development. Testing on mac with latest stable reqs. 
+For now its just a single master node and two workers with Docker and Calico network plugin. Intended for local development. Testing on mac with latest stable reqs. Modified versoin of the following kubernetes blog post https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/. 
 
 ## Pre Reqs
 * [Install Virtual Box](https://www.virtualbox.org/wiki/Downloads)
