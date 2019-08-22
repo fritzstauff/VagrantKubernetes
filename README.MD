@@ -1,4 +1,4 @@
-# Test environment for Kuberenetes 
+# Test Environment For Kuberenetes 
 
 For now its just a single master node and two workers with Docker and Calico network plugin. Intended for local development. Tested on mac with latest stable reqs. Modified versoin of the following kubernetes blog post https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/. 
 
