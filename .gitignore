@@ -1,0 +1,13 @@
+# General
+.vagrant/
+admin_token
+config
+env.sh
+kubernetes-setup/*.retry
+kubernetes-setup/join-command
+
+# Quick local notes
+todo
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+*.log
